@@ -41,4 +41,6 @@ Developed by:
 Rimjhim Saha  
 Date of Submission: 19th July 2025
 This project is submitted as part of the internship module under the guidance of YBI Foundation.
+Acknowledgment: Thanks to [@YBIFoundation](https://github.com/YBIFoundation) for providing guidance and learning resources.
+
 
